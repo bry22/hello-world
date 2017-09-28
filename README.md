@@ -1,2 +1,3 @@
 # hello-world
-just somethig
+just something
+Hi Humans
